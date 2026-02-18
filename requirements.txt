@@ -1,0 +1,2 @@
+#used for saving installed python packages in the virtual environment to a requirements.txt file
+pip freeze > requirements.txt
